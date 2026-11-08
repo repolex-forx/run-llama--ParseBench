@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/run-llama/ParseBench/commit/f9e58e74de783f4f9743b9daae44c226b0256b7b",
       "git:hexsha": "f9e58e74de783f4f9743b9daae44c226b0256b7b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/run-llama/ParseBench/commit/99bb1d1631ff82298145b586363c4901b4e806b5",
